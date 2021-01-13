@@ -1,3 +1,9 @@
+# Last update - Jan 13, 2021
+
+127.0.0.1 localhost
+
+::1 localhost #[IPv6]
+
 0.0.0.0 emulatoronline.com
 0.0.0.0 puffgames.com
 0.0.0.0 nick.com.au
